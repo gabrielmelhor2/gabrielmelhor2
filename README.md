@@ -2,7 +2,7 @@
 
 ### About me 
 
-An IT student who loves technology and constantly seeks knowledge. because I believe I can always improve and get closer to my goals!
+An IT student who loves technology and constantly seeks knowledge, because I believe I can always improve and get closer to my goals!
 
 ### Knowledge
 <p align="justify">
